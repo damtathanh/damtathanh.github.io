@@ -29,6 +29,7 @@ html {
     display: inline-block;
     margin-top: 15px;
     border: none;
+    appearance: none;
     -webkit-appearance: none;
 }
 
@@ -437,6 +438,10 @@ html {
 /* Contact content */
 .contact-content {
     margin-top: 47px;
+}
+
+.contact-submit-btn {
+    font-size: 16px;
 }
 
 .contact-info {
